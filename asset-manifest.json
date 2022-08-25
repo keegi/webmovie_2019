@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webmovie_2019/static/css/main.434515ae.css",
+    "main.js": "/webmovie_2019/static/js/main.d832409c.js",
+    "index.html": "/webmovie_2019/index.html",
+    "main.434515ae.css.map": "/webmovie_2019/static/css/main.434515ae.css.map",
+    "main.d832409c.js.map": "/webmovie_2019/static/js/main.d832409c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434515ae.css",
+    "static/js/main.d832409c.js"
+  ]
+}
